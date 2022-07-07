@@ -21,6 +21,16 @@
 
 #
 
+#
+ <a href="(https://github.com/WillameDamasceno)">
+  <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
+</a>
+<a href="(https://github.com/WillameDamasceno)">
+   <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=4&theme=react&hide=hack,java,scss">
+</a>
+
+#
+
 <div>
 
 <!-- | Skills | Learning | Want to learn |
